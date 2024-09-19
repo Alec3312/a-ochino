@@ -7,7 +7,7 @@ function calcularSigno() {
     }
 
     const signos = [
-        { nombre: "Mono", imagen: "../imagenes/mono.jpeg" },
+        { nombre: "Mono", imagen: "imagenes/mono.jpeg" },
         { nombre: "Gallo", imagen: "imagenes/gallo.jpeg" },
         { nombre: "Perro", imagen: "imagenes/perro.jpeg" },
         { nombre: "Cerdo", imagen: "imagenes/cerdo.jpeg" },
